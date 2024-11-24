@@ -1,1 +1,36 @@
-[{"ip": ["192.168.1.11"], "mac": "", "mem": "1G", "hostname": "mymac"}, {"ip": ["192.168.1.22"], "mac": "", "mem": "10G", "hostname": "bossmac", "os": {"family": "linux", "wordsize": 32, "variant": "ubuntu"}}, {"ip": ["192.168.1.1", "10.10.121.16"], "hostname": "gw", "mac": "nnnnnhhjhh", "os": {"family": "windows", "wordsize": 64, "variant": "10 server"}}]
+[
+    {
+        "ip": [
+            "192.168.1.11"
+        ],
+        "mac": "",
+        "mem": "1G",
+        "hostname": "mymac"
+    },
+    {
+        "ip": [
+            "192.168.1.22"
+        ],
+        "mac": "",
+        "mem": "10G",
+        "hostname": "bossmac",
+        "os": {
+            "family": "linux",
+            "wordsize": 32,
+            "variant": "ubuntu"
+        }
+    },
+    {
+        "ip": [
+            "192.168.1.1",
+            "10.10.121.16"
+        ],
+        "hostname": "gw",
+        "mac": "nnnnnhhjhh",
+        "os": {
+            "family": "windows",
+            "wordsize": 64,
+            "variant": "10 server"
+        }
+    }
+]
